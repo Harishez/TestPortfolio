@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
-theme: hugo-profile
+theme: theme
 
 outputs:
   home:
@@ -125,8 +125,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I certify things to ensure quality!"
+    content: "A passionate and motivated quality analyst. I aim to work at ensuring the quality in every aspect of what I work on."
     image: /images/hero.svg
     bottomImage:
       enable: true
